@@ -27,7 +27,7 @@ export default function Notifications(){
         }
 
         setNotifications(data);
-    }
+    }-
 
 
     
